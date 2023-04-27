@@ -1,0 +1,17 @@
+# colorschemes/example.yaml
+
+- name: "Scheme1"
+  colors:
+    - "#1f77b4"
+    - "#ff7f0e"
+    - "#2ca02c"
+    - "#d62728"
+    - "#9467bd"
+
+- name: "Scheme2"
+  colors:
+    - "#0072B2"
+    - "#009E73"
+    - "#D55E00"
+    - "#CC79A7"
+    - "#F0E442"
